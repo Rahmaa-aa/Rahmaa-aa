@@ -1,4 +1,4 @@
-<!-- Profile README · stats-style cards · two-column rows -->
+<!-- Profile README · full-width cards · vertical scroll only -->
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="width:100%;min-width:100%;background:#ffb3d9;padding:18px;border:4px solid #000000;">
@@ -40,47 +40,42 @@
 <tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📚 Languages</td></tr>
 <tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;text-align:center;width:100%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=donut-vertical&langs_count=8&title_color=000000&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false" alt="Most used languages" style="display:block;width:100%;max-width:560px;height:auto;border:3px solid #000;margin:0 auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=donut-vertical&langs_count=8&title_color=000000&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false" alt="Most used languages" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0 auto;" />
 
 </td></tr></table>
 
 <br/>
 
-<!-- Row: Tech stack | Highlights — stats-card chrome (matches readme-stats panels) -->
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;table-layout:fixed;">
-<tr valign="top">
-<td width="50%" style="width:50%;padding:0 8px 0 0;vertical-align:top;">
-
+<!-- Tech stack — full readme width -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">⚙️ Tech stack</td></tr>
-<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.65;">
-<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;font-family:Segoe UI,sans-serif;">Stack · pink chrome</p>
-<div align="center" style="line-height:1.9;">
-<img alt="React" src="https://img.shields.io/badge/React-e91e63?style=flat-square&logo=react&logoColor=white&labelColor=000000" /><br/>
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-e91e63?style=flat-square&logo=nestjs&logoColor=white&labelColor=000000" /><br/>
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-e91e63?style=flat-square&logo=next.js&logoColor=white&labelColor=000000" /><br/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-e91e63?style=flat-square&logo=typescript&logoColor=white&labelColor=000000" /><br/>
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.65;">
+<p style="margin:0 0 14px;color:#ff1493;font-weight:600;font-size:13px;">Stack · pink chrome</p>
+<p align="center" style="margin:0;line-height:2;">
+<img alt="React" src="https://img.shields.io/badge/React-e91e63?style=flat-square&logo=react&logoColor=white&labelColor=000000" />
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-e91e63?style=flat-square&logo=nestjs&logoColor=white&labelColor=000000" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-e91e63?style=flat-square&logo=next.js&logoColor=white&labelColor=000000" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-e91e63?style=flat-square&logo=typescript&logoColor=white&labelColor=000000" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-e91e63?style=flat-square&logo=javascript&logoColor=white&labelColor=000000" /><br/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-e91e63?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000" /><br/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-e91e63?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000" /><br/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-e91e63?style=flat-square&logo=docker&logoColor=white&labelColor=000000" /><br/>
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-e91e63?style=flat-square&logo=springboot&logoColor=white&labelColor=000000" /><br/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-e91e63?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-e91e63?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-e91e63?style=flat-square&logo=docker&logoColor=white&labelColor=000000" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-e91e63?style=flat-square&logo=springboot&logoColor=white&labelColor=000000" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-e91e63?style=flat-square&logo=angular&logoColor=white&labelColor=000000" /><br/>
-<img alt="Java" src="https://img.shields.io/badge/Java-e91e63?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000" /><br/>
-<img alt=".NET" src="https://img.shields.io/badge/.NET-e91e63?style=flat-square&logo=dotnet&logoColor=white&labelColor=000000" /><br/>
-<img alt="Git" src="https://img.shields.io/badge/Git-e91e63?style=flat-square&logo=git&logoColor=white&labelColor=000000" /><br/>
+<img alt="Java" src="https://img.shields.io/badge/Java-e91e63?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000" />
+<img alt=".NET" src="https://img.shields.io/badge/.NET-e91e63?style=flat-square&logo=dotnet&logoColor=white&labelColor=000000" />
+<img alt="Git" src="https://img.shields.io/badge/Git-e91e63?style=flat-square&logo=git&logoColor=white&labelColor=000000" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-e91e63?style=flat-square&logo=linux&logoColor=white&labelColor=000000" />
-</div>
+</p>
 </td></tr></table>
 
-</td>
-<td width="50%" style="width:50%;padding:0 0 0 8px;vertical-align:top;">
+<br/>
 
+<!-- Highlights — full readme width -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🏅 Highlights</td></tr>
-<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
-<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;font-family:Segoe UI,sans-serif;">Skills · snapshot</p>
-<ul style="margin:0;padding-left:18px;">
+<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🏅 Highlights</td></tr>
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Skills · snapshot</p>
+<ul style="margin:0;padding-left:22px;">
 <li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">Full-stack</span> — React · NestJS · MongoDB</li>
 <li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">A11y UX</span> — voice &amp; face login</li>
 <li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">ML-assisted</span> — habits &amp; forecasting</li>
@@ -88,41 +83,33 @@
 </ul>
 </td></tr></table>
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- Row: About | Bio — same stats-card treatment -->
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;table-layout:fixed;">
-<tr valign="top">
-<td width="50%" style="width:50%;padding:0 8px 0 0;vertical-align:top;">
-
+<!-- About — full width (stacked, no side-by-side) -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About</td></tr>
-<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;">
+<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About</td></tr>
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;">
 <p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Profile · facts</p>
 <table width="100%" style="border-collapse:collapse;font-size:13px;">
-<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;width:42%;vertical-align:top;">GitHub</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">Rahmaa-aa</td></tr>
-<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Name</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">Rahma Ayed</td></tr>
-<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Focus</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">Full-stack · humane UX · Y2K / cyber‑brutalism</td></tr>
-<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Education</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">ESPRIT — integrated projects &amp; engineering practice</td></tr>
-<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;vertical-align:top;">Open to</td><td style="padding:8px 6px;color:#000;">Freelance · internships · collaborations</td></tr>
+<tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;width:38%;vertical-align:top;">GitHub</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">Rahmaa-aa</td></tr>
+<tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Name</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">Rahma Ayed</td></tr>
+<tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Focus</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">Full-stack · humane UX · Y2K / cyber‑brutalism</td></tr>
+<tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Education</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">ESPRIT — integrated projects &amp; engineering practice</td></tr>
+<tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;vertical-align:top;">Open to</td><td style="padding:10px 8px;color:#000;">Freelance · internships · collaborations</td></tr>
 </table>
 </td></tr></table>
 
-</td>
-<td width="50%" style="width:50%;padding:0 0 0 8px;vertical-align:top;">
+<br/>
 
+<!-- Bio — full width below About -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Bio</td></tr>
-<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;">
+<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Bio</td></tr>
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;">
 <p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Story · pitch</p>
 <p style="margin:0 0 12px;"><strong>Hello!</strong> Web platforms end-to-end — clarity, a11y, UI with teeth.</p>
 <p style="margin:0 0 12px;"><strong>Interests:</strong> coding · crochet · gym · Y2K chrome + cyber‑brutalism.</p>
 <p style="margin:0 0 8px;font-weight:600;color:#880e4f;">Deliver</p>
-<ul style="margin:0 0 12px;padding-left:18px;">
+<ul style="margin:0 0 12px;padding-left:22px;">
 <li>NestJS APIs · React apps</li>
 <li>JWT / MFA-style auth</li>
 <li>Dashboards · alerts</li>
@@ -130,10 +117,6 @@
 </ul>
 <p style="margin:0;"><strong>Missions:</strong> healthcare · wellbeing · humanitarian tooling.<br/><strong>Goals:</strong> freelance · internships · stronger stacks.</p>
 </td></tr></table>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
