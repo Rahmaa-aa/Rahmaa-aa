@@ -1,4 +1,4 @@
-<!-- Profile README · full-width tables · pin repos via GitHub UI -->
+<!-- Profile README · stats-style cards · two-column rows -->
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="width:100%;min-width:100%;background:#ffb3d9;padding:18px;border:4px solid #000000;">
@@ -46,11 +46,16 @@
 
 <br/>
 
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#00ff66;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">✿ Tech stack</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ff99cc;padding:16px;width:100%;">
+<!-- Row: Tech stack | Highlights — stats-card chrome (matches readme-stats panels) -->
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;table-layout:fixed;">
+<tr valign="top">
+<td width="50%" style="width:50%;padding:0 8px 0 0;vertical-align:top;">
 
-<div align="center" style="line-height:2.1;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
+<tr><td style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">⚙️ Tech stack</td></tr>
+<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.65;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;font-family:Segoe UI,sans-serif;">Stack · pink chrome</p>
+<div align="center" style="line-height:1.9;">
 <img alt="React" src="https://img.shields.io/badge/React-e91e63?style=flat-square&logo=react&logoColor=white&labelColor=000000" /><br/>
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e91e63?style=flat-square&logo=nestjs&logoColor=white&labelColor=000000" /><br/>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-e91e63?style=flat-square&logo=next.js&logoColor=white&labelColor=000000" /><br/>
@@ -66,56 +71,69 @@
 <img alt="Git" src="https://img.shields.io/badge/Git-e91e63?style=flat-square&logo=git&logoColor=white&labelColor=000000" /><br/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-e91e63?style=flat-square&logo=linux&logoColor=white&labelColor=000000" />
 </div>
-
 </td></tr></table>
 
-<br/>
+</td>
+<td width="50%" style="width:50%;padding:0 0 0 8px;vertical-align:top;">
 
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">🏅 Highlights</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:16px;color:#000;font-family:Segoe UI,sans-serif;font-size:14px;line-height:1.85;width:100%;">
-
-<ul style="margin:0;padding-left:22px;">
-<li>Full-stack — React · NestJS · MongoDB</li>
-<li>Accessible UX — voice &amp; face login</li>
-<li>ML-assisted — habits &amp; forecasting</li>
-<li>DevOps — Docker &amp; CI</li>
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
+<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🏅 Highlights</td></tr>
+<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;font-family:Segoe UI,sans-serif;">Skills · snapshot</p>
+<ul style="margin:0;padding-left:18px;">
+<li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">Full-stack</span> — React · NestJS · MongoDB</li>
+<li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">A11y UX</span> — voice &amp; face login</li>
+<li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">ML-assisted</span> — habits &amp; forecasting</li>
+<li><span style="color:#000;font-weight:600;">DevOps</span> — Docker &amp; CI</li>
 </ul>
-
 </td></tr></table>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📋 About</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ff80ab;padding:16px;color:#000;font-size:14px;line-height:1.75;width:100%;">
+<!-- Row: About | Bio — same stats-card treatment -->
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;table-layout:fixed;">
+<tr valign="top">
+<td width="50%" style="width:50%;padding:0 8px 0 0;vertical-align:top;">
 
-<p style="margin:0 0 14px;padding:12px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">GitHub</strong><br/><span style="color:#880e4f;">Rahmaa-aa</span></p>
-<p style="margin:0 0 14px;padding:12px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">Name</strong><br/><span style="color:#880e4f;">Rahma Ayed</span></p>
-<p style="margin:0 0 14px;padding:12px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">Focus</strong><br/><span style="color:#880e4f;">Full-stack<br/>Humane UX<br/>Y2K / cyber‑brutalism</span></p>
-<p style="margin:0 0 14px;padding:12px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">Education</strong><br/><span style="color:#880e4f;">ESPRIT — integrated projects &amp; engineering practice</span></p>
-<p style="margin:0;padding:12px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">Open to</strong><br/><span style="color:#880e4f;">Freelance · internships · collaborations</span></p>
-
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
+<tr><td style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About</td></tr>
+<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Profile · facts</p>
+<table width="100%" style="border-collapse:collapse;font-size:13px;">
+<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;width:42%;vertical-align:top;">GitHub</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">Rahmaa-aa</td></tr>
+<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Name</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">Rahma Ayed</td></tr>
+<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Focus</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">Full-stack · humane UX · Y2K / cyber‑brutalism</td></tr>
+<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Education</td><td style="padding:8px 6px;color:#000;border-bottom:1px solid #f06292;">ESPRIT — integrated projects &amp; engineering practice</td></tr>
+<tr><td style="padding:8px 6px;color:#880e4f;font-weight:bold;vertical-align:top;">Open to</td><td style="padding:8px 6px;color:#000;">Freelance · internships · collaborations</td></tr>
+</table>
 </td></tr></table>
 
-<br/>
+</td>
+<td width="50%" style="width:50%;padding:0 0 0 8px;vertical-align:top;">
 
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">💌 Bio</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:18px;color:#000;font-size:14px;line-height:1.75;width:100%;">
-
-<p style="margin:0 0 12px;"><strong>Hello!</strong> Web platforms end-to-end — clarity, a11y, and UI with teeth.</p>
-<p style="margin:0 0 12px;"><strong>Interests:</strong> coding · crochet · gym · <strong style="color:#c2185b;">Y2K chrome</strong> + <strong style="color:#c2185b;">cyber‑brutalism</strong>.</p>
-<p style="margin:0 0 10px;"><strong>Ship:</strong></p>
-<ul style="margin:0 0 12px;padding-left:22px;">
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
+<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Bio</td></tr>
+<tr><td style="border:3px solid #000;border-top:none;background:#ffccee;padding:14px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Story · pitch</p>
+<p style="margin:0 0 12px;"><strong>Hello!</strong> Web platforms end-to-end — clarity, a11y, UI with teeth.</p>
+<p style="margin:0 0 12px;"><strong>Interests:</strong> coding · crochet · gym · Y2K chrome + cyber‑brutalism.</p>
+<p style="margin:0 0 8px;font-weight:600;color:#880e4f;">Deliver</p>
+<ul style="margin:0 0 12px;padding-left:18px;">
 <li>NestJS APIs · React apps</li>
 <li>JWT / MFA-style auth</li>
 <li>Dashboards · alerts</li>
 <li>Docker where it fits</li>
 </ul>
 <p style="margin:0;"><strong>Missions:</strong> healthcare · wellbeing · humanitarian tooling.<br/><strong>Goals:</strong> freelance · internships · stronger stacks.</p>
-
 </td></tr></table>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -155,25 +173,6 @@
 <li>React+Vite · NestJS · MongoDB · JWT roles</li>
 </ul>
 <p style="margin:0;"><a href="https://github.com/Rahmaa-aa/stage-"><img src="https://img.shields.io/badge/OPEN_REPO-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="REFCAMP repo"/></a></p>
-</td></tr></table>
-
-<br/>
-
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;text-transform:uppercase;width:100%;">📌 Pin these repos on your profile</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ff80ab;padding:16px;color:#000;width:100%;">
-
-<p style="margin:0 0 14px;line-height:1.65;">Pinned repos appear under your avatar on <a href="https://github.com/Rahmaa-aa" style="color:#4a0028;font-weight:bold;">your GitHub profile</a>. GitHub does not pin them from this README—you choose them once in the UI:</p>
-<ol style="margin:0 0 14px;padding-left:22px;line-height:1.85;">
-<li>Open your profile → click <strong>Customize your pins</strong> (or edit pinned repositories).</li>
-<li>Select up to six repos; pick at least these three:<br/>
-<strong><a href="https://github.com/Rahmaa-aa/Esprit-PIFullstackJS-4TWIN1-2026-MediFollow" style="color:#4a0028;">MediFollow</a></strong> ·
-<strong><a href="https://github.com/Rahmaa-aa/MoodSlayer" style="color:#4a0028;">MoodSlayer</a></strong> ·
-<strong><a href="https://github.com/Rahmaa-aa/stage-" style="color:#4a0028;">REFCAMP (stage-)</a></strong></li>
-<li>Save — they’ll show next to “Popular repositories.”</li>
-</ol>
-<p style="margin:0;font-size:13px;color:#333;">Shortcut while logged in: profile → “Customize your pins” → search repo names → confirm.</p>
-
 </td></tr></table>
 
 <br/>
