@@ -7,19 +7,19 @@
 </div>
 
 <table width="100%">
-<tr><td>
+<tr><td style="background:#fbcfe8;padding:14px;border-radius:14px;border:2px solid #ad1457;">
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">📊 GitHub stats</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fff8fb;padding:12px;border-radius:0 0 10px 10px;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">📊 GitHub stats</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:12px;border-radius:0 0 10px 10px;">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahmaa-aa&show_icons=true&rank_icon=github&hide_title=false&title_color=c2185b&icon_color=ec407a&text_color=880e4f&bg_color=fff5f8&border_color=ec407a&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" width="495" style="max-width:100%;height:auto;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahmaa-aa&show_icons=true&rank_icon=github&hide_title=false&title_color=880e4f&icon_color=d81b60&text_color=4a148c&bg_color=fbcfe8&border_color=f06292&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" width="495" style="max-width:100%;height:auto;" />
 
-<img src="https://streak-stats.demolab.com/?user=Rahmaa-aa&background=FFF8FB&border=EC407A&stroke=880E4F&ring=F48FB1&fire=F48FB1&currStreakLabel=880E4F&currStreakNum=C2185B&sideNums=C2185B&sideLabels=880E4F&dates=AD1457&hide_border=false" alt="Git streak" width="495" style="max-width:100%;height:auto;" />
+<img src="https://streak-stats.demolab.com/?user=Rahmaa-aa&background=FBCFE8&border=F06292&stroke=880E4F&ring=EC407A&fire=FF4081&currStreakLabel=880E4F&currStreakNum=AD1457&sideNums=AD1457&sideLabels=880E4F&dates=4A148C&hide_border=false" alt="Git streak" width="495" style="max-width:100%;height:auto;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=compact&langs_count=8&title_color=c2185b&text_color=880e4f&bg_color=fff8fb&border_color=ec407a&hide_border=false" alt="Top languages" width="495" style="max-width:100%;height:auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=compact&langs_count=8&title_color=880e4f&text_color=4a148c&bg_color=fce4ec&border_color=f06292&hide_border=false" alt="Top languages" width="495" style="max-width:100%;height:auto;" />
 
 </div>
 
@@ -28,8 +28,8 @@
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">✿ Tech stack</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#ffffff;padding:12px;border-radius:0 0 10px 10px;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">✿ Tech stack</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#f8bbd0;padding:12px;border-radius:0 0 10px 10px;">
 
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -55,10 +55,10 @@
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">🏅 Highlights</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fff8fb;padding:12px;border-radius:0 0 10px 10px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.6;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">🏅 Highlights</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:12px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.6;">
 
-<ul style="margin:0;padding-left:18px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
+<ul style="margin:0;padding-left:18px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
 <li>Full-stack apps (React · NestJS · MongoDB)</li>
 <li>Accessible UX (voice, face login patterns)</li>
 <li>ML-assisted features (habits · forecasting)</li>
@@ -70,29 +70,15 @@
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">✧ Mini me ✧</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#ffe4ec;padding:14px;border-radius:0 0 10px 10px;">
-
-<div align="center">
-
-<img src="https://github.com/Rahmaa-aa.png" width="200" alt="Profile avatar" style="border-radius:12px;border:3px solid #ad1457;max-width:min(220px, 85vw);height:auto;" />
-
-</div>
-
-</td></tr></table>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About me</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#ffffff;padding:12px;border-radius:0 0 10px 10px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About me</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#f48fb1;padding:12px;border-radius:0 0 10px 10px;color:#4a0028;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">
 
 <table width="100%" style="border-collapse:collapse;">
-<tr><td style="padding:4px 8px;color:#ad1457;font-weight:bold;width:36%;vertical-align:top;">Username</td><td style="padding:4px 8px;"><strong>Rahmaa-aa</strong></td></tr>
-<tr><td style="padding:4px 8px;color:#ad1457;font-weight:bold;vertical-align:top;">Name</td><td style="padding:4px 8px;">Rahma Ayed</td></tr>
-<tr><td style="padding:4px 8px;color:#ad1457;font-weight:bold;vertical-align:top;">Focus</td><td style="padding:4px 8px;">Full-stack · humane UX · Y2K / cyber vibes</td></tr>
-<tr><td style="padding:4px 8px;color:#ad1457;font-weight:bold;vertical-align:top;">Education</td><td style="padding:4px 8px;">ESPRIT — integrated projects &amp; practical engineering</td></tr>
-<tr><td style="padding:4px 8px;color:#ad1457;font-weight:bold;vertical-align:top;">Open to</td><td style="padding:4px 8px;">Freelance · internships · collaborations</td></tr>
+<tr><td style="padding:4px 8px;color:#880e4f;font-weight:bold;width:36%;vertical-align:top;">Username</td><td style="padding:4px 8px;"><strong>Rahmaa-aa</strong></td></tr>
+<tr><td style="padding:4px 8px;color:#880e4f;font-weight:bold;vertical-align:top;">Name</td><td style="padding:4px 8px;">Rahma Ayed</td></tr>
+<tr><td style="padding:4px 8px;color:#880e4f;font-weight:bold;vertical-align:top;">Focus</td><td style="padding:4px 8px;">Full-stack · humane UX · Y2K / cyber vibes</td></tr>
+<tr><td style="padding:4px 8px;color:#880e4f;font-weight:bold;vertical-align:top;">Education</td><td style="padding:4px 8px;">ESPRIT — integrated projects &amp; practical engineering</td></tr>
+<tr><td style="padding:4px 8px;color:#880e4f;font-weight:bold;vertical-align:top;">Open to</td><td style="padding:4px 8px;">Freelance · internships · collaborations</td></tr>
 </table>
 
 </td></tr></table>
@@ -100,10 +86,10 @@
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Profile</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fff8fb;padding:14px;border-radius:0 0 10px 10px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Profile</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#fbcfe8;padding:14px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
 
-**Hello!** I’m Rahma — I build web platforms end-to-end and care about clarity, accessibility, and a bit of personality in the UI `(„･ᴗ･„)`. I enjoy **coding**, **crocheting**, and the **gym**, and I like mixing creative flair with solid engineering — especially aesthetics inspired by **Y2K** and **cyber‑brutalism**.
+**Hello!** I’m Rahma — I build web platforms end-to-end and care about clarity, accessibility, and a bit of personality in the UI. I enjoy **coding**, **crocheting**, and the **gym**, and I like mixing creative flair with solid engineering — especially aesthetics inspired by **Y2K** and **cyber‑brutalism**.
 
 For clients and collaborators: I ship structured NestJS APIs, React front ends, auth flows (JWT · MFA patterns), dashboards with charts and alerts, and Docker-ready setups where it fits. I’m motivated by projects that help real people — healthcare follow-up, wellbeing tooling, and humanitarian logistics.
 
@@ -114,8 +100,8 @@ For clients and collaborators: I ship structured NestJS APIs, React front ends, 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🛍️ Featured repos</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#ffffff;padding:12px;border-radius:0 0 10px 10px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.55;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🛍️ Featured repos</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:12px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.55;">
 
 **MediFollow** — Post‑hospital remote monitoring · vitals · questionnaires · alerts · audit trails · MFA · RBAC · React + NestJS + MongoDB · accessibility extras (voice, face login patterns).
 
@@ -139,8 +125,8 @@ For clients and collaborators: I ship structured NestJS APIs, React front ends, 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🎵 Pinned · activity</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fff8fb;padding:12px;border-radius:0 0 10px 10px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.55;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🎵 Pinned · activity</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#f8bbd0;padding:12px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.55;">
 
 Explore pinned repositories on my GitHub for the freshest commits — MediFollow (healthcare), MoodSlayer (AI-assisted wellbeing), and REFCAMP (humanitarian logistics).
 
@@ -149,8 +135,8 @@ Explore pinned repositories on my GitHub for the freshest commits — MediFollow
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ec407a;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">💐 Contact · guestbook</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#ffffff;padding:14px;border-radius:0 0 10px 10px;color:#880e4f;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.75;">
+<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:6px 10px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">💐 Contact · guestbook</td></tr>
+<tr><td style="border:2px solid #880e4f;border-top:none;background:#fbcfe8;padding:14px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.75;">
 
 <p align="center">
 <a href="mailto:rahma.ayed@esprit.tn"><img src="https://img.shields.io/badge/email-me-ec407a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
