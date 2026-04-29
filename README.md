@@ -44,13 +44,13 @@
 
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ tech stack ✦ ──</p>
 
-<!-- Tech stack — full readme width -->
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">⚙️ Tech stack</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.65;">
-<p style="margin:0 0 14px;color:#ff1493;font-weight:600;font-size:13px;">Stack · pink chrome</p>
+<!-- Tech stack — same chrome as GitHub overview / Languages -->
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">⚙️ Tech stack</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.7;width:100%;">
+<p style="margin:0 0 14px;color:#ff1493;font-weight:bold;font-size:14px;font-family:Segoe UI,sans-serif;">Stack · pink chrome</p>
 <p align="center" style="margin:0;line-height:2;">
 <img alt="React" src="https://img.shields.io/badge/React-e91e63?style=flat-square&logo=react&logoColor=white&labelColor=000000" />
 <img alt="NestJS" src="https://img.shields.io/badge/NestJS-e91e63?style=flat-square&logo=nestjs&logoColor=white&labelColor=000000" />
@@ -69,13 +69,12 @@
 </p>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ highlights ✦ ──</p>
 
-<!-- Highlights — full readme width -->
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🏅 Highlights</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
-<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Skills · snapshot</p>
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">🏅 Highlights</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;width:100%;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:bold;font-size:14px;font-family:Segoe UI,sans-serif;">Skills · snapshot</p>
 <ul style="margin:0;padding-left:22px;">
 <li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">Full-stack</span> — React · NestJS · MongoDB</li>
 <li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">A11y UX</span> — voice &amp; face login</li>
@@ -84,13 +83,12 @@
 </ul>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ about ✦ ──</p>
 
-<!-- About — full width (stacked, no side-by-side) -->
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;">
-<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Profile · facts</p>
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📋 About</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;width:100%;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:bold;font-size:14px;font-family:Segoe UI,sans-serif;">Profile · facts</p>
 <table width="100%" style="border-collapse:collapse;font-size:13px;">
 <tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;width:38%;vertical-align:top;">GitHub</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">Rahmaa-aa</td></tr>
 <tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;vertical-align:top;">Name</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">Rahma Ayed</td></tr>
@@ -100,13 +98,12 @@
 </table>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ bio ✦ ──</p>
 
-<!-- Bio — full width below About -->
-<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Bio</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;">
-<p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Story · pitch</p>
+<table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">💌 Bio</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;width:100%;">
+<p style="margin:0 0 12px;color:#ff1493;font-weight:bold;font-size:14px;font-family:Segoe UI,sans-serif;">Story · pitch</p>
 <p style="margin:0 0 12px;"><strong>Hello!</strong> Web platforms end-to-end — clarity, a11y, UI with teeth.</p>
 <p style="margin:0 0 12px;"><strong>Interests:</strong> coding · crochet · gym · Y2K chrome + cyber‑brutalism.</p>
 <p style="margin:0 0 8px;font-weight:600;color:#880e4f;">Deliver</p>
@@ -119,11 +116,11 @@
 <p style="margin:0;"><strong>Missions:</strong> healthcare · wellbeing · humanitarian tooling.<br/><strong>Goals:</strong> freelance · internships · stronger stacks.</p>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ medifollow ✦ ──</p>
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;width:100%;">🛍️ MediFollow · remote care</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;width:100%;">🛍️ MediFollow · remote care</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;font-family:Segoe UI,sans-serif;font-size:13px;">
 <p style="margin:0 0 10px;">Post‑hospital remote monitoring.</p>
 <ul style="margin:0 0 14px;padding-left:22px;">
 <li>Vitals · questionnaires · alerts · audit · MFA/RBAC</li>
@@ -135,11 +132,11 @@
 </p>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ moodslayer ✦ ──</p>
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;width:100%;">🛍️ MoodSlayer · vibe OS</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ff99cc;padding:14px 12px;color:#000;line-height:1.7;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;width:100%;">🛍️ MoodSlayer · vibe OS</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;font-family:Segoe UI,sans-serif;font-size:13px;">
 <ul style="margin:0 0 14px;padding-left:22px;">
 <li>Mood &amp; habits · neural-style insights · XP · heatmaps</li>
 <li>Next.js · TS · Python ML · Docker</li>
@@ -147,11 +144,11 @@
 <p style="margin:0;"><a href="https://github.com/Rahmaa-aa/MoodSlayer"><img src="https://img.shields.io/badge/OPEN_REPO-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="MoodSlayer repo"/></a></p>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ refcamp ✦ ──</p>
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#00ff66;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;width:100%;">🛍️ REFCAMP · stage-</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;width:100%;">🛍️ REFCAMP · stage-</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;font-family:Segoe UI,sans-serif;font-size:13px;">
 <ul style="margin:0 0 14px;padding-left:22px;">
 <li>Camp ops · KPI · teams · tents · needs &amp; resources</li>
 <li>React+Vite · NestJS · MongoDB · JWT roles</li>
@@ -159,11 +156,11 @@
 <p style="margin:0;"><a href="https://github.com/Rahmaa-aa/stage-"><img src="https://img.shields.io/badge/OPEN_REPO-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="REFCAMP repo"/></a></p>
 </td></tr></table>
 
-<br/>
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ contact ✦ ──</p>
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;text-transform:uppercase;width:100%;">💐 Contact</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:14px 12px;color:#000;width:100%;">
+<tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;width:100%;">💐 Contact</td></tr>
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;width:100%;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
 
 <div align="center">
 <a href="mailto:rahma.ayed@esprit.tn"><img src="https://img.shields.io/badge/EMAIL-e91e63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a><br/><br/>
@@ -173,7 +170,7 @@
 
 <p style="margin:18px 0 10px;font-style:italic;color:#000;">Thanks for visiting ✿ issues / email welcome.</p>
 
-<p style="margin:0 0 8px;"><strong style="color:#000;">Links</strong></p>
+<p style="margin:0 0 8px;"><strong style="color:#ff1493;font-size:14px;">Links</strong></p>
 <ul style="margin:0;padding-left:22px;line-height:2;">
 <li><a href="https://github.com/Rahmaa-aa/Esprit-PIFullstackJS-4TWIN1-2026-MediFollow" style="color:#ad1457;font-weight:bold;">MediFollow repository</a></li>
 <li><a href="https://medifollow-frontend.vercel.app" style="color:#ad1457;font-weight:bold;">MediFollow live demo</a></li>
