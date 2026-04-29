@@ -1,7 +1,7 @@
 <!-- Profile README · full-width cards · vertical scroll only -->
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
-<tr><td width="100%" style="width:100%;min-width:100%;background:#ffb3d9;padding:18px;border:4px solid #000000;">
+<tr><td width="100%" style="width:100%;min-width:100%;background:#ffb3d9;padding:10px 0;border:4px solid #000000;">
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="width:100%;">
@@ -18,9 +18,9 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📊 GitHub · overview</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;text-align:center;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:6px 0;text-align:center;width:100%;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahmaa-aa&show_icons=true&rank_icon=github&hide_title=false&title_color=ff1493&icon_color=ff1493&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false&include_all_commits=true&count_private=true&card_width=600" alt="GitHub stats" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0 auto;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahmaa-aa&show_icons=true&rank_icon=github&hide_title=false&title_color=ff1493&icon_color=ff1493&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false&include_all_commits=true&count_private=true&card_width=780" alt="GitHub stats" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0;padding:0;" />
 
 </td></tr></table>
 
@@ -28,9 +28,9 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">🔥 Contributions · streak</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:18px;text-align:center;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:6px 0;text-align:center;width:100%;">
 
-<img src="https://streak-stats.demolab.com/?user=Rahmaa-aa&background=FFB3D9&border=000000&stroke=000000&ring=FF1493&fire=FF1493&currStreakLabel=000000&currStreakNum=FF1493&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" alt="Contribution streak" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0 auto;" />
+<img src="https://streak-stats.demolab.com/?user=Rahmaa-aa&background=FFB3D9&border=000000&stroke=000000&ring=FF1493&fire=FF1493&currStreakLabel=000000&currStreakNum=FF1493&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" alt="Contribution streak" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0;padding:0;" />
 
 </td></tr></table>
 
@@ -38,9 +38,9 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📚 Languages</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;text-align:center;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:6px 0;text-align:center;width:100%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=donut-vertical&langs_count=8&title_color=000000&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false" alt="Most used languages" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0 auto;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=donut-vertical&langs_count=8&title_color=000000&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false&card_width=780" alt="Most used languages" style="display:block;width:100%;max-width:100%;height:auto;border:3px solid #000;margin:0;padding:0;" />
 
 </td></tr></table>
 
@@ -48,7 +48,8 @@
 
 <!-- Tech stack — full readme width -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.65;">
+<tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">⚙️ Tech stack</td></tr>
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.65;">
 <p style="margin:0 0 14px;color:#ff1493;font-weight:600;font-size:13px;">Stack · pink chrome</p>
 <p align="center" style="margin:0;line-height:2;">
 <img alt="React" src="https://img.shields.io/badge/React-e91e63?style=flat-square&logo=react&logoColor=white&labelColor=000000" />
@@ -73,7 +74,7 @@
 <!-- Highlights — full readme width -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
 <tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🏅 Highlights</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-family:Segoe UI,sans-serif;font-size:13px;line-height:1.75;">
 <p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Skills · snapshot</p>
 <ul style="margin:0;padding-left:22px;">
 <li style="margin-bottom:8px;"><span style="color:#000;font-weight:600;">Full-stack</span> — React · NestJS · MongoDB</li>
@@ -88,7 +89,7 @@
 <!-- About — full width (stacked, no side-by-side) -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
 <tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;">
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-size:13px;line-height:1.65;font-family:Segoe UI,sans-serif;">
 <p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Profile · facts</p>
 <table width="100%" style="border-collapse:collapse;font-size:13px;">
 <tr><td style="padding:10px 8px;color:#880e4f;font-weight:bold;border-bottom:1px solid #f06292;width:38%;vertical-align:top;">GitHub</td><td style="padding:10px 8px;color:#000;border-bottom:1px solid #f06292;">Rahmaa-aa</td></tr>
@@ -104,7 +105,7 @@
 <!-- Bio — full width below About -->
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;box-shadow:4px 4px 0 #000;">
 <tr><td width="100%" style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 14px;border:3px solid #000;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Bio</td></tr>
-<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:16px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;">
+<tr><td width="100%" style="border:3px solid #000;border-top:none;background:#ffccee;padding:12px 10px;color:#000;font-size:13px;line-height:1.75;font-family:Segoe UI,sans-serif;">
 <p style="margin:0 0 12px;color:#ff1493;font-weight:600;font-size:13px;">Story · pitch</p>
 <p style="margin:0 0 12px;"><strong>Hello!</strong> Web platforms end-to-end — clarity, a11y, UI with teeth.</p>
 <p style="margin:0 0 12px;"><strong>Interests:</strong> coding · crochet · gym · Y2K chrome + cyber‑brutalism.</p>
@@ -122,7 +123,7 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;width:100%;">🛍️ MediFollow · remote care</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;color:#000;line-height:1.7;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;">
 <p style="margin:0 0 10px;">Post‑hospital remote monitoring.</p>
 <ul style="margin:0 0 14px;padding-left:22px;">
 <li>Vitals · questionnaires · alerts · audit · MFA/RBAC</li>
@@ -138,7 +139,7 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;width:100%;">🛍️ MoodSlayer · vibe OS</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ff99cc;padding:18px;color:#000;line-height:1.7;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ff99cc;padding:14px 12px;color:#000;line-height:1.7;width:100%;">
 <ul style="margin:0 0 14px;padding-left:22px;">
 <li>Mood &amp; habits · neural-style insights · XP · heatmaps</li>
 <li>Next.js · TS · Python ML · Docker</li>
@@ -150,7 +151,7 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#00ff66;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;width:100%;">🛍️ REFCAMP · stage-</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;color:#000;line-height:1.7;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffcce6;padding:14px 12px;color:#000;line-height:1.7;width:100%;">
 <ul style="margin:0 0 14px;padding-left:22px;">
 <li>Camp ops · KPI · teams · tents · needs &amp; resources</li>
 <li>React+Vite · NestJS · MongoDB · JWT roles</li>
@@ -162,7 +163,7 @@
 
 <table role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;width:100%;">
 <tr><td width="100%" style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;text-transform:uppercase;width:100%;">💐 Contact</td></tr>
-<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:18px;color:#000;width:100%;">
+<tr><td width="100%" style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:14px 12px;color:#000;width:100%;">
 
 <div align="center">
 <a href="mailto:rahma.ayed@esprit.tn"><img src="https://img.shields.io/badge/EMAIL-e91e63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/></a><br/><br/>
