@@ -1,65 +1,67 @@
-<!-- ═══ Rahmaa-aa · GitHub profile README · vertical-first layout ═══ -->
+<!-- CYBER-Y2K README · black × hot pink × vertical stack -->
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#ffccd5;padding:16px;border-radius:16px;border:3px solid #ad1457;">
+<tr><td style="background:linear-gradient(180deg,#ffb3d9 0%,#ff9ec9 45%,#ff7eb3 100%);padding:18px;border-radius:4px;border:4px solid #000000;box-shadow:6px 6px 0 #000;">
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&size=20&duration=2800&color=C2185B&center=true&vCenter=true&width=420&lines=hello+%E2%99%A1+welcome+to+my+profile;full-stack+%C2%B7+react+%C2%B7+nestjs+%C2%B7+y2k+aesthetic" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&color=FF1493&center=true&vCenter=true&width=440&pause=800&lines=WELCOME+%E2%99%A1+RAHMA.OS;FULLSTACK+%C2%B7+REACT+%C2%B7+NEST+%C2%B7+Y2K+CHROME;CYBR+BRUTALISM+%E2%80%94+PINK+BLACK+GRID" alt="header typing" />
+
+<p style="margin:12px 0 0;font-family:Courier New,monospace;font-size:11px;color:#000;text-shadow:1px 1px 0 #ff1493;">░░░ neon bruital grid · loud borders · scroll ↓ ░░░</p>
 
 </div>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">📊 Overview · commits &amp; stars</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:16px;border-radius:0 0 10px 10px;text-align:center;">
+<tr><td style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📊 /// STATS.EXE · OVERVIEW</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;text-align:center;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahmaa-aa&show_icons=true&rank_icon=github&hide_title=false&title_color=880e4f&icon_color=d81b60&text_color=4a148c&bg_color=fbcfe8&border_color=f06292&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats · commits and stars" width="495" style="display:block;margin:0 auto;max-width:100%;height:auto;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahmaa-aa&show_icons=true&rank_icon=github&hide_title=false&title_color=ff1493&icon_color=ff1493&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" width="495" style="display:block;margin:0 auto 14px auto;max-width:100%;height:auto;border:3px solid #000;" />
+
+</td></tr></table>
+
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ STREAK KERNEL ✦ ──</p>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">🔥 /// STREAK · HEATMAP</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:18px;text-align:center;">
+
+<img src="https://streak-stats.demolab.com/?user=Rahmaa-aa&background=FFB3D9&border=000000&stroke=000000&ring=FF1493&fire=FF1493&currStreakLabel=000000&currStreakNum=FF1493&sideNums=000000&sideLabels=000000&dates=000000&hide_border=false" alt="Contribution streak" width="495" style="display:block;margin:0 auto;max-width:100%;height:auto;border:3px solid #000;" />
+
+</td></tr></table>
+
+<p align="center" style="margin:10px 0;font-family:Courier New,monospace;color:#000;font-size:12px;">── ✦ LANG STACK (VERT) ✦ ──</p>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr><td style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📚 /// LANGUAGES · DONUT</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;text-align:center;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=donut-vertical&langs_count=8&title_color=000000&text_color=000000&bg_color=ffccee&border_color=000000&hide_border=false" alt="Languages vertical donut" width="320" style="display:block;margin:0 auto;max-width:100%;height:auto;border:3px solid #000;" />
 
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">🔥 Contribution streak</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fbcfe8;padding:16px;border-radius:0 0 10px 10px;text-align:center;">
+<tr><td style="background:#000000;color:#00ff66;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">✿ /// STACK · PINK LABELS</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ff99cc;padding:16px;">
 
-<img src="https://streak-stats.demolab.com/?user=Rahmaa-aa&background=FBCFE8&border=F06292&stroke=880E4F&ring=EC407A&fire=FF4081&currStreakLabel=880E4F&currStreakNum=AD1457&sideNums=AD1457&sideLabels=880E4F&dates=4A148C&hide_border=false" alt="Git contribution streak" width="495" style="display:block;margin:0 auto;max-width:100%;height:auto;" />
-
-</td></tr></table>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">📚 Most used languages</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:16px;border-radius:0 0 10px 10px;text-align:center;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaa-aa&layout=compact&langs_count=8&title_color=880e4f&text_color=4a148c&bg_color=fce4ec&border_color=f06292&hide_border=false" alt="Most used languages on GitHub" width="495" style="display:block;margin:0 auto;max-width:100%;height:auto;" />
-
-</td></tr></table>
-
-<br/>
-
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">✿ Tech stack · one line each</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#f8bbd0;padding:14px;border-radius:0 0 10px 10px;">
-
-<div align="center" style="line-height:2;">
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /><br/>
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /><br/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br/>
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /><br/>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /><br/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<div align="center" style="line-height:2.1;">
+<img alt="React" src="https://img.shields.io/badge/React-e91e63?style=flat-square&logo=react&logoColor=white&labelColor=000000" /><br/>
+<img alt="NestJS" src="https://img.shields.io/badge/NestJS-e91e63?style=flat-square&logo=nestjs&logoColor=white&labelColor=000000" /><br/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-e91e63?style=flat-square&logo=next.js&logoColor=white&labelColor=000000" /><br/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-e91e63?style=flat-square&logo=typescript&logoColor=white&labelColor=000000" /><br/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-e91e63?style=flat-square&logo=javascript&logoColor=white&labelColor=000000" /><br/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-e91e63?style=flat-square&logo=mongodb&logoColor=white&labelColor=000000" /><br/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-e91e63?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000" /><br/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-e91e63?style=flat-square&logo=docker&logoColor=white&labelColor=000000" /><br/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-e91e63?style=flat-square&logo=springboot&logoColor=white&labelColor=000000" /><br/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-e91e63?style=flat-square&logo=angular&logoColor=white&labelColor=000000" /><br/>
+<img alt="Java" src="https://img.shields.io/badge/Java-e91e63?style=flat-square&logo=openjdk&logoColor=white&labelColor=000000" /><br/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET-e91e63?style=flat-square&logo=dotnet&logoColor=white&labelColor=000000" /><br/>
+<img alt="Git" src="https://img.shields.io/badge/Git-e91e63?style=flat-square&logo=git&logoColor=white&labelColor=000000" /><br/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-e91e63?style=flat-square&logo=linux&logoColor=white&labelColor=000000" />
 </div>
 
 </td></tr></table>
@@ -67,14 +69,14 @@
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">🏅 Highlights</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:14px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.75;">
+<tr><td style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">🏅 /// HIGHLIGHTS</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffcce6;padding:16px;color:#000;font-family:Segoe UI,sans-serif;font-size:14px;line-height:1.85;">
 
-<ul style="margin:0;padding-left:20px;">
-<li>Full-stack apps — React, NestJS, MongoDB</li>
-<li>Accessible UX — voice &amp; face login patterns</li>
-<li>ML-assisted features — habits &amp; forecasting</li>
-<li>DevOps basics — Docker &amp; CI awareness</li>
+<ul style="margin:0;padding-left:22px;">
+<li>Full-stack — React · NestJS · MongoDB</li>
+<li>Accessible UX — voice &amp; face login</li>
+<li>ML-assisted — habits &amp; forecasting</li>
+<li>DevOps — Docker &amp; CI</li>
 </ul>
 
 </td></tr></table>
@@ -82,134 +84,111 @@
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">📋 About me</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#f48fb1;padding:14px;border-radius:0 0 10px 10px;color:#4a0028;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">
+<tr><td style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">📋 /// ABOUT · VERTICAL</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ff80ab;padding:16px;color:#000;font-size:14px;line-height:1.75;">
 
-<table width="100%" style="border-collapse:collapse;">
-<tr><td style="padding:6px 8px;color:#4a0028;font-weight:bold;width:34%;vertical-align:top;">Username</td><td style="padding:6px 8px;"><strong>Rahmaa-aa</strong></td></tr>
-<tr><td style="padding:6px 8px;color:#4a0028;font-weight:bold;vertical-align:top;">Name</td><td style="padding:6px 8px;">Rahma Ayed</td></tr>
-<tr><td style="padding:6px 8px;color:#4a0028;font-weight:bold;vertical-align:top;">Focus</td><td style="padding:6px 8px;">Full-stack<br/>Humane UX<br/>Y2K / cyber vibes</td></tr>
-<tr><td style="padding:6px 8px;color:#4a0028;font-weight:bold;vertical-align:top;">Education</td><td style="padding:6px 8px;">ESPRIT — integrated projects &amp; practical engineering</td></tr>
-<tr><td style="padding:6px 8px;color:#4a0028;font-weight:bold;vertical-align:top;">Open to</td><td style="padding:6px 8px;">Freelance<br/>Internships<br/>Collaborations</td></tr>
-</table>
+<p style="margin:0 0 14px;padding:10px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">USERNAME</strong><br/><span style="color:#880e4f;">Rahmaa-aa</span></p>
+<p style="margin:0 0 14px;padding:10px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">NAME</strong><br/><span style="color:#880e4f;">Rahma Ayed</span></p>
+<p style="margin:0 0 14px;padding:10px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">FOCUS</strong><br/><span style="color:#880e4f;">Full-stack<br/>Humane UX<br/>Y2K / cyber‑brutalism</span></p>
+<p style="margin:0 0 14px;padding:10px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">EDU</strong><br/><span style="color:#880e4f;">ESPRIT — integrated projects &amp; practical engineering</span></p>
+<p style="margin:0;padding:10px;border-left:6px solid #000;background:#ffcce6;"><strong style="color:#000;">OPEN TO</strong><br/><span style="color:#880e4f;">Freelance · internships · collaborations</span></p>
 
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">💌 Profile</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fbcfe8;padding:16px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.7;">
+<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;">💌 /// PROFILE.TXT</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:18px;color:#000;font-size:14px;line-height:1.75;">
 
-<p style="margin:0 0 12px 0;"><strong>Hello!</strong> I build web platforms end-to-end and care about clarity, accessibility, and a bit of personality in the UI.</p>
-<p style="margin:0 0 12px 0;">I enjoy <strong>coding</strong>, <strong>crocheting</strong>, and the <strong>gym</strong>. I like mixing creative flair with solid engineering — especially <strong>Y2K</strong> and <strong>cyber‑brutalism</strong> aesthetics.</p>
-<p style="margin:0 0 12px 0;"><strong>For clients &amp; collaborators</strong>, I ship:</p>
-<ul style="margin:0 0 12px 0;padding-left:20px;">
-<li>NestJS APIs &amp; React front ends</li>
-<li>Auth flows — JWT &amp; MFA-style patterns</li>
-<li>Dashboards — charts &amp; alerts</li>
-<li>Docker-ready setups where it fits</li>
+<p style="margin:0 0 12px;"><strong>Hello!</strong> Web platforms end-to-end — clarity, a11y, and UI with teeth.</p>
+<p style="margin:0 0 12px;"><strong>Interests:</strong> coding · crochet · gym · <strong style="color:#c2185b;">Y2K chrome</strong> + <strong style="color:#c2185b;">cyber‑brutalism</strong>.</p>
+<p style="margin:0 0 10px;"><strong>Ship:</strong></p>
+<ul style="margin:0 0 12px;padding-left:22px;">
+<li>NestJS APIs · React apps</li>
+<li>JWT / MFA-style auth</li>
+<li>Dashboards · alerts</li>
+<li>Docker where it fits</li>
 </ul>
-<p style="margin:0 0 12px 0;">I care about projects that help people: <strong>healthcare follow-up</strong>, <strong>wellbeing tooling</strong>, and <strong>humanitarian logistics</strong>.</p>
-<p style="margin:0;"><strong>Goals:</strong> freelancing &amp; internships, meaningful products, leveling up across the stack.</p>
+<p style="margin:0;"><strong>Missions:</strong> healthcare · wellbeing · humanitarian tooling.<br/><strong>Goals:</strong> freelance · internships · better stacks.</p>
 
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🛍️ MediFollow</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:16px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
-
-<p style="margin:0 0 10px 0;">Post‑hospital remote monitoring for patients and care teams.</p>
-<ul style="margin:0 0 12px 0;padding-left:20px;">
-<li>Vitals &amp; symptom tracking, questionnaires</li>
-<li>Alerts, audit trails, MFA · RBAC</li>
-<li>React + NestJS + MongoDB</li>
-<li>Accessibility extras — voice &amp; face login patterns</li>
+<tr><td style="background:#000000;color:#ff1493;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;">🛍️ MediFollow · REMOTE CARE</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;color:#000;line-height:1.7;">
+<p style="margin:0 0 10px;">Post‑hospital remote monitoring.</p>
+<ul style="margin:0 0 14px;padding-left:22px;">
+<li>Vitals · questionnaires · alerts · audit · MFA/RBAC</li>
+<li>React · NestJS · MongoDB · a11y (voice / face patterns)</li>
 </ul>
 <p style="margin:0;">
-<a href="https://github.com/Rahmaa-aa/Esprit-PIFullstackJS-4TWIN1-2026-MediFollow"><img src="https://img.shields.io/badge/repo-GitHub-ec407a?style=flat-square&logo=github&labelColor=880e4f" alt="MediFollow repo"/></a><br/><br/>
-<a href="https://medifollow-frontend.vercel.app"><img src="https://img.shields.io/badge/live-demo-Vercel-f48fb1?style=flat-square&logo=vercel&labelColor=ad1457&logoColor=white" alt="MediFollow demo"/></a>
+<a href="https://github.com/Rahmaa-aa/Esprit-PIFullstackJS-4TWIN1-2026-MediFollow"><img src="https://img.shields.io/badge/OPEN_REPO-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="repo"/></a><br/><br/>
+<a href="https://medifollow-frontend.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-e91e63?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="demo"/></a>
 </p>
-
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🛍️ MoodSlayer</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fbcfe8;padding:16px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
-
-<p style="margin:0 0 10px 0;">Daily mood &amp; habits with AI-style insights.</p>
-<ul style="margin:0 0 12px 0;padding-left:20px;">
-<li>Vibe projection &amp; habit weights</li>
-<li>Pattern alerts, XP / levels, heatmaps</li>
-<li>Next.js · TypeScript · Python ML service · Docker</li>
+<tr><td style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;">🛍️ MoodSlayer · VIBE OS</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ff99cc;padding:18px;color:#000;line-height:1.7;">
+<ul style="margin:0 0 14px;padding-left:22px;">
+<li>Mood &amp; habits · neural-style insights · XP · heatmaps</li>
+<li>Next.js · TS · Python ML · Docker</li>
 </ul>
-<p style="margin:0;">
-<a href="https://github.com/Rahmaa-aa/MoodSlayer"><img src="https://img.shields.io/badge/repo-GitHub-ec407a?style=flat-square&logo=github&labelColor=880e4f" alt="MoodSlayer repo"/></a>
-</p>
-
+<p style="margin:0;"><a href="https://github.com/Rahmaa-aa/MoodSlayer"><img src="https://img.shields.io/badge/OPEN_REPO-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="repo"/></a></p>
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🛍️ REFCAMP · stage-</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fce4ec;padding:16px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.65;">
-
-<p style="margin:0 0 10px 0;">Refugee camp management for institutional workflows.</p>
-<ul style="margin:0 0 12px 0;padding-left:20px;">
-<li>KPI dashboards, associations, teams, tents</li>
-<li>Needs &amp; resources tracking</li>
-<li>React + Vite · NestJS · MongoDB · JWT roles</li>
+<tr><td style="background:#000000;color:#00ff66;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;">🛍️ REFCAMP · stage-</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffcce6;padding:18px;color:#000;line-height:1.7;">
+<ul style="margin:0 0 14px;padding-left:22px;">
+<li>Camp ops · KPI · teams · tents · needs &amp; resources</li>
+<li>React+Vite · NestJS · MongoDB · JWT roles</li>
 </ul>
-<p style="margin:0;">
-<a href="https://github.com/Rahmaa-aa/stage-"><img src="https://img.shields.io/badge/repo-GitHub-ec407a?style=flat-square&logo=github&labelColor=880e4f" alt="REFCAMP repo"/></a>
-</p>
-
+<p style="margin:0;"><a href="https://github.com/Rahmaa-aa/stage-"><img src="https://img.shields.io/badge/OPEN_REPO-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="repo"/></a></p>
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;">🎵 Pinned · where to look</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#f8bbd0;padding:16px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.75;">
-
-<ul style="margin:0;padding-left:20px;">
-<li><strong>MediFollow</strong> — healthcare &amp; remote monitoring</li>
-<li><strong>MoodSlayer</strong> — wellbeing &amp; habits</li>
-<li><strong>REFCAMP</strong> — humanitarian logistics</li>
-</ul>
-
+<tr><td style="background:#000000;color:#ff69b4;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;text-transform:uppercase;">🎵 /// PINNED MAP</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ff80ab;padding:16px;color:#000;">
+<ul style="margin:0;padding-left:22px;line-height:2;">
+<li><strong>MediFollow</strong> — care / monitoring</li>
+<li><strong>MoodSlayer</strong> — wellbeing OS</li>
+<li><strong>REFCAMP</strong> — logistics</li>
+</ul>
 </td></tr></table>
 
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-<tr><td style="background:#d81b60;color:#fff;font-weight:bold;padding:8px 12px;border:2px solid #880e4f;border-radius:10px 10px 0 0;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;text-align:center;">💐 Contact</td></tr>
-<tr><td style="border:2px solid #880e4f;border-top:none;background:#fbcfe8;padding:16px;border-radius:0 0 10px 10px;color:#6a1b47;font-family:Segoe UI,Tahoma,sans-serif;font-size:13px;line-height:1.8;">
+<tr><td style="background:#000000;color:#ffcc00;font-weight:bold;padding:10px 12px;border:4px solid #000;font-family:Courier New,monospace;font-size:12px;text-transform:uppercase;">💐 /// CONTACT · UPLINK</td></tr>
+<tr><td style="border:4px solid #000;border-top:none;background:#ffb3d9;padding:18px;color:#000;">
 
 <div align="center">
-<a href="mailto:rahma.ayed@esprit.tn"><img src="https://img.shields.io/badge/email-rahma.ayed%40esprit.tn-ec407a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rahma"/></a>
-<br/><br/>
-<a href="https://github.com/Rahmaa-aa"><img src="https://img.shields.io/badge/GitHub-Rahmaa--aa-880e4f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Rahmaa-aa&label=profile+views&color=ec407a&style=flat-square&labelColor=880e4f" alt="Profile views" />
+<a href="mailto:rahma.ayed@esprit.tn"><img src="https://img.shields.io/badge/EMAIL-e91e63?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="email"/></a><br/><br/>
+<a href="https://github.com/Rahmaa-aa"><img src="https://img.shields.io/badge/GITHUB-e91e63?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="github"/></a><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Rahmaa-aa&label=VIEWS&color=e91e63&style=for-the-badge&labelColor=000000" alt="views" />
 </div>
 
-<p style="margin:16px 0 8px 0;font-style:italic;">Thanks for visiting ✿ Open an issue or email to talk about a project.</p>
+<p style="margin:18px 0 10px;font-style:italic;color:#000;">Thanks for visiting ✿ issues / email welcome.</p>
 
-<p style="margin:0 0 8px 0;"><strong>Quick links</strong></p>
-<ul style="margin:0;padding-left:20px;">
-<li><a href="https://github.com/Rahmaa-aa/Esprit-PIFullstackJS-4TWIN1-2026-MediFollow">MediFollow repository</a></li>
-<li><a href="https://medifollow-frontend.vercel.app">MediFollow live demo</a></li>
-<li><a href="https://github.com/Rahmaa-aa/MoodSlayer">MoodSlayer repository</a></li>
-<li><a href="https://github.com/Rahmaa-aa/stage-">REFCAMP · stage- repository</a></li>
+<p style="margin:0 0 8px;"><strong style="color:#000;">Quick links</strong></p>
+<ul style="margin:0;padding-left:22px;line-height:2;">
+<li><a href="https://github.com/Rahmaa-aa/Esprit-PIFullstackJS-4TWIN1-2026-MediFollow" style="color:#ad1457;font-weight:bold;">MediFollow repository</a></li>
+<li><a href="https://medifollow-frontend.vercel.app" style="color:#ad1457;font-weight:bold;">MediFollow live demo</a></li>
+<li><a href="https://github.com/Rahmaa-aa/MoodSlayer" style="color:#ad1457;font-weight:bold;">MoodSlayer repository</a></li>
+<li><a href="https://github.com/Rahmaa-aa/stage-" style="color:#ad1457;font-weight:bold;">REFCAMP · stage- repository</a></li>
 </ul>
 
-<sub>Y2K-style widgets · pink chrome · loud borders.</sub>
+<sub style="color:#000;">CYBR-Y2K · black chrome · pink bleed · loud boxes</sub>
 
 </td></tr></table>
 
@@ -220,16 +199,6 @@
 <details>
 <summary><strong>Optional · personalize later</strong></summary>
 
-If you want an even sharper client-facing profile, you can reply with:
-
-1. **Headline for hire:** one line (e.g. “Full-stack developer · NestJS · React”).
-2. **Location / timezone** (if you want them public).
-3. **Portfolio site or LinkedIn** URL (if any).
-4. **Rates or availability** (optional — “open to project-based work”, etc.).
-5. **Favorite stack order** for badges (what you want emphasized first).
-6. **Languages** you work in professionally (French / English / Arabic, etc.).
-7. **One testimonial or quote** from a teammate / supervisor (optional).
-
-I can merge these into the README in a second pass.
+If you want an even sharper client-facing profile, you can reply with headline, timezone, LinkedIn, availability, languages, testimonial — I can merge in a pass.
 
 </details>
